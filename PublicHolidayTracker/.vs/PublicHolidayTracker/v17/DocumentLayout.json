@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PublicHolidayTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77128E3C-0D0D-490E-BE47-2526AF0692BB}|PublicHolidayTracker\\PublicHolidayTracker.csproj|c:\\users\\user\\desktop\\publicholidaytracker\\publicholidaytracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77128E3C-0D0D-490E-BE47-2526AF0692BB}|PublicHolidayTracker\\PublicHolidayTracker.csproj|solutionrelative:publicholidaytracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77128E3C-0D0D-490E-BE47-2526AF0692BB}|PublicHolidayTracker\\PublicHolidayTracker.csproj|c:\\users\\user\\desktop\\publicholidaytracker\\publicholidaytracker\\publicholidaytracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77128E3C-0D0D-490E-BE47-2526AF0692BB}|PublicHolidayTracker\\PublicHolidayTracker.csproj|solutionrelative:publicholidaytracker\\publicholidaytracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77128E3C-0D0D-490E-BE47-2526AF0692BB}|PublicHolidayTracker\\PublicHolidayTracker.csproj|c:\\users\\user\\desktop\\publicholidaytracker\\publicholidaytracker\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77128E3C-0D0D-490E-BE47-2526AF0692BB}|PublicHolidayTracker\\PublicHolidayTracker.csproj|solutionrelative:publicholidaytracker\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PublicHolidayTracker.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PublicHolidayTracker\\PublicHolidayTracker\\PublicHolidayTracker.csproj",
+              "RelativeDocumentMoniker": "PublicHolidayTracker\\PublicHolidayTracker.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PublicHolidayTracker\\PublicHolidayTracker\\PublicHolidayTracker.csproj",
+              "RelativeToolTip": "PublicHolidayTracker\\PublicHolidayTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T13:27:18.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PublicHolidayTracker\\PublicHolidayTracker\\Program.cs",
+              "RelativeDocumentMoniker": "PublicHolidayTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PublicHolidayTracker\\PublicHolidayTracker\\Program.cs",
+              "RelativeToolTip": "PublicHolidayTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:27:13.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Holiday.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PublicHolidayTracker\\PublicHolidayTracker\\Holiday.cs",
+              "RelativeDocumentMoniker": "PublicHolidayTracker\\Holiday.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PublicHolidayTracker\\PublicHolidayTracker\\Holiday.cs",
+              "RelativeToolTip": "PublicHolidayTracker\\Holiday.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:27:10.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
